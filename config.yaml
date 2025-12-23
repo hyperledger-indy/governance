@@ -76,6 +76,10 @@ repositories:
     teams:
       indy-admin: admin
     visibility: public
+  - name: indy-read-replica
+    teams:
+      indy-admin: admin
+    visibility: public
   - name: indy-shared-gha
     teams:
       indy-admin: admin
