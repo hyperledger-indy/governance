@@ -18,6 +18,15 @@ teams:
       - hartm
       - jwagantall
       - davidwboswell
+  - name: indy-vdr-committers
+    maintainers:
+      - bryce-mcmath
+    members:
+      - cvarjao
+      - jleach
+      - al-rosenthal
+      - MacDeluca
+      - KjartanE
 repositories:
   - name: governance
     teams:
@@ -95,4 +104,5 @@ repositories:
   - name: indy-vdr
     teams:
       indy-admin: admin
+      indy-vdr-committers: admin
     visibility: public
