@@ -20,9 +20,9 @@ teams:
       - davidwboswell
   - name: indy-vdr-committers
     maintainers:
+      - cvarjao
       - bryce-mcmath
     members:
-      - cvarjao
       - jleach
       - al-rosenthal
       - MacDeluca
